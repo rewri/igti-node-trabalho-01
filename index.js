@@ -13,6 +13,6 @@ app.get('/', (_req, res) => {
 
 app.use('/marcas', carsRouter);
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+app.listen(global.PORT, () => {
+  console.log(`Server is running on global.PORT ${PORT}`);
 });

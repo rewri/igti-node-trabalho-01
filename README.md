@@ -14,7 +14,7 @@ Exercitar os seguintes conceitos trabalhados no Módulo:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://www.npmjs.com/package/express)
-- [Nodemon](hhttps://www.npmjs.com/package/nodemon)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
 
 ## Enunciado
 
